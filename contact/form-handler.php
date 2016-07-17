@@ -61,8 +61,8 @@ function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	if($use_smtp == '1'){
 	
-		$SmtpServer = 'SMTP SERVER';
-		$SmtpPort = 'SMTP PORT';
+		$SmtpServer = 'smtp.gmail.com'; //suggested by slowave forum
+		$SmtpPort = '587'; //also suggested
 		$SmtpUser = 'SMTP USER';
 		$SmtpPass = 'SMTP PASSWORD';
 		
