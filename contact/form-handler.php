@@ -1,7 +1,7 @@
 <?php
 include('SMTPClass.php');
 
-$use_smtp = '0';
+$use_smtp = '1';
 $emailto = 'rlopez5392@gmail.com';
 
 	// retrieve from parameters
@@ -63,8 +63,8 @@ function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 		$SmtpServer = 'smtp.gmail.com'; //suggested by slowave forum
 		$SmtpPort = '587'; //also suggested
-		$SmtpUser = 'SMTP USER';
-		$SmtpPass = 'SMTP PASSWORD';
+		$SmtpUser = 'rlopez5392@gmail.com';
+		$SmtpPass = 'norcal707';
 		
 		$to = $emailto;
 		$SMTPMail = new SMTPClient ($SmtpServer, $SmtpPort, $SmtpUser, $SmtpPass, $from, $to, $subject, $body);
