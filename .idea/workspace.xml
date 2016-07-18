@@ -28,10 +28,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6904762">
-              <caret line="316" column="22" selection-start-line="316" selection-start-column="22" selection-end-line="316" selection-end-column="22" />
+            <state vertical-scroll-proportion="1.8904109">
+              <caret line="310" column="83" selection-start-line="310" selection-start-column="83" selection-end-line="310" selection-end-column="83" />
               <folding>
-                <element signature="e#20318#20341#0" expanded="true" />
+                <element signature="e#20594#20617#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,8 +72,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1330" />
-    <option name="y" value="202" />
+    <option name="x" value="1446" />
+    <option name="y" value="177" />
     <option name="width" value="1859" />
     <option name="height" value="854" />
   </component>
@@ -342,7 +342,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1330" y="202" width="1859" height="854" extended-state="0" />
+    <frame x="1446" y="177" width="1859" height="854" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -402,7 +402,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#20318#20341#0" expanded="true" />
+            <element signature="e#20594#20617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -428,7 +428,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#20318#20341#0" expanded="true" />
+            <element signature="e#20594#20617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -454,7 +454,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#20318#20341#0" expanded="true" />
+            <element signature="e#20594#20617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -464,7 +464,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#20318#20341#0" expanded="true" />
+            <element signature="e#20594#20617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -474,7 +474,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#20318#20341#0" expanded="true" />
+            <element signature="e#20594#20617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -507,10 +507,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6904762">
-          <caret line="316" column="22" selection-start-line="316" selection-start-column="22" selection-end-line="316" selection-end-column="22" />
+        <state vertical-scroll-proportion="1.8904109">
+          <caret line="310" column="83" selection-start-line="310" selection-start-column="83" selection-end-line="310" selection-end-column="83" />
           <folding>
-            <element signature="e#20318#20341#0" expanded="true" />
+            <element signature="e#20594#20617#0" expanded="true" />
           </folding>
         </state>
       </provider>
