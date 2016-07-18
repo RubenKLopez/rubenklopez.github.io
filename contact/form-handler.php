@@ -2,7 +2,9 @@
 include('SMTPClass.php');
 
 $use_smtp = '1';
-$emailto = 'rlopez5392@gmail.com';
+$emailto = 'ruben@javiescakes.com';
+    
+    echo "Hello World";
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
@@ -61,8 +63,8 @@ function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	if($use_smtp == '1'){
 	
-		$SmtpServer = 'smtp.gmail.com'; //suggested by slowave forum
-		$SmtpPort = '587'; //also suggested
+		$SmtpServer = '127.0.0.1' //'smtp.gmail.com'; //suggested by slowave forum
+		$SmtpPort = '25' //'587'; //also suggested
 		$SmtpUser = 'rlopez5392@gmail.com';
 		$SmtpPass = 'norcal707';
 		
