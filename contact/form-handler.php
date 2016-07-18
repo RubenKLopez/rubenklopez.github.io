@@ -1,7 +1,7 @@
 <?php
 include('SMTPClass.php');
 
-$use_smtp = '1';
+$use_smtp = '0';
 $emailto = 'ruben@javiescakes.com';
     
     echo "Hello World";
