@@ -15,3 +15,9 @@ git push -u origin master
 
 git pull
 
+# Considerations (To-Do's):
+- Pricing Page on home page
+- update FB page cover photo with same as Webpage
+- updated gallery/recent projects with more images
+
+
