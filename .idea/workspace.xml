@@ -24,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="135" column="74" lean-forward="false" selection-start-line="135" selection-start-column="74" selection-end-line="135" selection-end-column="74" />
+            <state relative-caret-position="283">
+              <caret line="115" column="69" lean-forward="true" selection-start-line="115" selection-start-column="69" selection-end-line="115" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="86" column="58" lean-forward="false" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
+            <state relative-caret-position="442">
+              <caret line="94" column="41" lean-forward="true" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
               <folding>
                 <element signature="e#19767#19790#0" expanded="true" />
               </folding>
@@ -238,7 +238,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527200449018" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527201089899" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -286,7 +286,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527200449018" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527201089899" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -936,21 +936,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="86" column="58" lean-forward="false" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding>
-            <element signature="e#19767#19790#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="283">
+          <caret line="115" column="69" lean-forward="true" selection-start-line="115" selection-start-column="69" selection-end-line="115" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="135" column="74" lean-forward="false" selection-start-line="135" selection-start-column="74" selection-end-line="135" selection-end-column="74" />
-          <folding />
+        <state relative-caret-position="442">
+          <caret line="94" column="41" lean-forward="true" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <element signature="e#19767#19790#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
