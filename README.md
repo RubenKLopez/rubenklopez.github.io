@@ -1,5 +1,8 @@
+
+
 # rubenklopez.github.io (Javie's Cakes)
 To update server with additions or changes..
+Login to github via email: RLopez****@gmail.com
 
 # Navigate to local copy:
 cd rubenklopez.github.io
